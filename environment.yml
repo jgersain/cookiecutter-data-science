@@ -1,7 +1,7 @@
-name: cookiecutter-personal
+name: cookiecutter-conda-data-science
 channels:
+  - anaconda
   - conda-forge
   - defaults
 dependencies:
   - cookiecutter
-prefix: /home/jgersain/anaconda3/envs/cookiecutter-personal
